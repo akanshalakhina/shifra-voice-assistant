@@ -1,0 +1,8 @@
+# Node dependencies
+node_modules/
+
+# API secrets
+.env
+
+# Mac system files
+.DS_Store
